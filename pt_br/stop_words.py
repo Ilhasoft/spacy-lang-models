@@ -24,8 +24,11 @@ aquilo
 as
 às
 até
+
+cada
 com
 como
+
 da
 daqui
 das
@@ -39,6 +42,7 @@ desde
 do
 dos
 durante
+
 e
 é
 ela
@@ -83,6 +87,7 @@ estivessem
 estivéssemos
 estou
 eu
+
 foi
 fomos
 for
@@ -95,6 +100,7 @@ fosse
 fossem
 fôssemos
 fui
+
 há
 haja
 hajam
@@ -121,9 +127,12 @@ houvermos
 houvesse
 houvessem
 houvéssemos
+
 isso
 isto
+
 já
+
 la
 lá
 las
@@ -131,6 +140,7 @@ lhe
 lhes
 lo
 los
+
 mas
 me
 mesmo
@@ -139,6 +149,7 @@ meus
 minha
 minhas
 muito
+
 na
 nas
 nem
@@ -151,10 +162,12 @@ nosso
 nossos
 num
 numa
+
 o
 onde
 os
 ou
+
 para
 pela
 pelas
@@ -164,6 +177,7 @@ pois
 por
 porque
 portanto
+
 quais
 quaisquer
 qual
@@ -176,6 +190,7 @@ quase
 que
 quê
 quem
+
 são
 se
 seja
@@ -199,6 +214,7 @@ somos
 sua
 suas
 sou
+
 também
 tanta
 tantas
@@ -248,9 +264,11 @@ tu
 tua
 tuas
 tudo
+
 uma
 umas
 uns
+
 você
 vocês
 vos
