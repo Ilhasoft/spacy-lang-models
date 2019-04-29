@@ -83,6 +83,12 @@ _exc = {
     "vdd": "verdade",
     "vlw": "obrigado",
 
+    # Escritas diferentes
+    "cota": "quota",
+    "quatorze": "catorze",
+    "quatrilhão": "quadrilhão",
+    "quatrilhões": "quadrilhões",
+
     # Símbolos
     "R$": "$"
 }
