@@ -6,7 +6,8 @@ _exc = {
     # Gírias e abreviações
     "abç": "abraço",
     "aham": "sim",
-    "att": "atenciosamente"
+    "ateh": "até",
+    "att": "atenciosamente",
     "bj": "beijo",
     "bjs": "beijos",
     "bixo": "bicho",
@@ -82,13 +83,11 @@ _exc = {
     "vc": "você",
     "vdd": "verdade",
     "vlw": "obrigado",
-
     # Escritas diferentes
     "cota": "quota",
     "quatorze": "catorze",
     "quatrilhão": "quadrilhão",
     "quatrilhões": "quadrilhões",
-
     # Símbolos
     "R$": "$"
 }
