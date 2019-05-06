@@ -5,10 +5,14 @@ from __future__ import unicode_literals
 _exc = {
     # Gírias e abreviações
     "abç": "abraço",
+    "abrç": "abraço",
     "aham": "sim",
+    "ahan": "sim",
     "ateh": "até",
     "att": "atenciosamente",
     "bj": "beijo",
+    "bjo": "beijo",
+    "bjos": "beijo",
     "bjs": "beijos",
     "bixo": "bicho",
     "blz": "beleza",
@@ -80,6 +84,7 @@ _exc = {
     "topzera": "legal",
     "tqr": "tem que respeitar",
     "uhum": "sim",
+    "uhun": "sim",
     "vc": "você",
     "vdd": "verdade",
     "vlw": "obrigado",
